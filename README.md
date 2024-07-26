@@ -27,7 +27,7 @@ I'm thrilled to present my Sales & Customer Dashboard. This project aims to deli
 - Easy navigation between dashboards.
 - Interactive charts and data filters for customized insights.
 
-![Image Alt](https://github.com/swastik1510/Tableau-Sales-Customer-Dashboard/blob/main/Sales%20Dashboard.png?raw=true)
+![Image Alt](https://github.com/swastik1510/Tableau-Sales-Customer-Dashboard/blob/main/Dynamic%20Filter.png?raw=true)
 
 ## User Story
 For detailed specifications, please refer to [Tableau Sales & Customer Dashboard Requirements.pdf](https://github.com/swastik1510/Tableau-Sales-Customer-Dashboard/blob/31374ff229279314efe03f21486b36ffb86d0607/Tableau%20Sales%20%26%20Customer%20Dashboard%20Requirements.pdf).
