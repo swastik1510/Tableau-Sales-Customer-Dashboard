@@ -11,6 +11,7 @@ I'm thrilled to present my Sales & Customer Dashboard. This project aims to deli
 - **Sales Trends:** Monthly data to highlight trends and identify peak periods.
 - **Product Insights:** Comparison of sales and profit performance across product subcategories.
 - **Weekly Patterns:** Sales and profits over time on a weekly basis, including average comparisons.
+![Image Alt](https://github.com/swastik1510/Tableau-Sales-Customer-Dashboard/blob/main/Sales%20Dashboard.png?raw=true)
 
 ### Customer Dashboard
 - **Customer Metrics:** Summary of customer numbers, sales per customer, and total orders.
