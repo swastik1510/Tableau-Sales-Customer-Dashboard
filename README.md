@@ -27,7 +27,7 @@ I'm thrilled to present my Sales & Customer Dashboard. This project aims to deli
 For detailed specifications, please refer to [Tableau Sales & Customer Dashboard Requirements.pdf](https://github.com/swastik1510/Tableau-Sales-Customer-Dashboard/blob/31374ff229279314efe03f21486b36ffb86d0607/Tableau%20Sales%20%26%20Customer%20Dashboard%20Requirements.pdf).
 
 ## GitHub Repository
-Explore the project on GitHub: [GitHub Link]
+Explore the project on GitHub: [GitHub Link](https://github.com/swastik1510/Tableau-Sales-Customer-Dashboard/blob/4faa71f36103b2d28eed009e174a2af2ecfa5911/Sales%20%26%20Customer%20Dashboard.twbx)
 
 ## Feedback
 I look forward to your feedback and suggestions!
