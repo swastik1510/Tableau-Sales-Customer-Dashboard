@@ -50,7 +50,7 @@ I'm thrilled to present my Sales & Customer Dashboard. This project aims to deli
 - Interactive charts and data filters for customized insights.
 
 ## User Story
-For detailed specifications, please refer to [Tableau Sales & Customer Dashboard Requirements.pdf](Tableau_User_Story_Sales_Performance.md).
+For detailed specifications, please refer to [Tableau Sales & Customer Dashboard Requirements.pdf](https://github.com/swastik1510/Tableau-Sales-Customer-Dashboard/blob/31374ff229279314efe03f21486b36ffb86d0607/Tableau%20Sales%20%26%20Customer%20Dashboard%20Requirements.pdf).
 
 ## GitHub Repository
 Explore the project on GitHub: [GitHub Link]
